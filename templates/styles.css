@@ -1,0 +1,14 @@
+.container-class {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+
+.item-class {
+  align-self: center;
+  color: red;
+}
