@@ -6,9 +6,9 @@ In the Anaconda Prompt, go to the root directory of project
 - set FLASK_DEBUG=TRUE
 - FLASK RUN
 
-Authored:
-Group 3- COMP377
-•	Adrian Dumitriu
-•	Ivan Joshua Zapanta
-•	Muhammad Hassan
+## Authored by:
+## Group 3- COMP377
+- Adrian Dumitriu
+- Ivan Joshua Zapanta
+- Muhammad Hassan
 
